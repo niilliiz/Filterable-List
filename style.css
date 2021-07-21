@@ -62,7 +62,8 @@
 
 li:hover {
     padding: 9px;
-    background-color: #fbfbfb;
+    background-color: lightskyblue;
+    ;
 }
 
 li a:hover {
